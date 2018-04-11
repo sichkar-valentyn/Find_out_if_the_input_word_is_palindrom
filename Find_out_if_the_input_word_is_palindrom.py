@@ -10,7 +10,6 @@
 # [1] Valentyn N Sichkar. Find out if the input word is palindrom // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Find_out_if_the_input_word_is_palindrom (date of access: XX.XX.XXXX)
 
 
-
 # Imlementing the task
 # Find out if the input word is palindrom
 
@@ -32,7 +31,7 @@ else:
     print('No')
 
 # Another way to check - slicing of strings
-dna_revers = dna[::-1]
+dna_revers = dna[::-1]  # Going from the end to the beginning with the step = 1
 if dna == dna_revers:
     print('Yes')
 else:
