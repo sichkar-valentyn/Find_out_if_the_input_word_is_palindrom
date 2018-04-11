@@ -31,7 +31,7 @@ else:
     print('No')
 
 # Another way to check - slicing of strings
-dna_revers = dna[::-1]
+dna_revers = dna[::-1]  # Going from the end to the beginning with the step = 1
 if dna == dna_revers:
     print('Yes')
 else:
