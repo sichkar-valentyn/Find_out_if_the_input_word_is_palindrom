@@ -10,7 +10,6 @@
 # [1] Valentyn N Sichkar. Find out if the input word is palindrom // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Find_out_if_the_input_word_is_palindrom (date of access: XX.XX.XXXX)
 
 
-
 # Imlementing the task
 # Find out if the input word is palindrom
 
