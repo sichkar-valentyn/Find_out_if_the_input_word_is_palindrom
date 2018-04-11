@@ -11,7 +11,7 @@
 
 
 # Imlementing the task
-# Find out if the input word is palindrom
+# Find out if the input word is a palindrom
 
 dna = input().lower()  # Putting word in low case
 
